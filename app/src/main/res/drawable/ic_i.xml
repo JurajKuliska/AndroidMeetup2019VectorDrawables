@@ -5,10 +5,11 @@
         android:viewportWidth="24"
         android:viewportHeight="24">
 
+    <!-- TODO the letter I created using just thick strokes -->
     <path
-        android:strokeColor="#000"
-        android:strokeWidth="2"
-        android:strokeLineCap="round"
-        android:pathData="M9,4H15M12,4V16M9,16H15" />
+            android:strokeColor="#000"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:pathData=""/>
 
 </vector>

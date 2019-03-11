@@ -5,12 +5,14 @@
           android:viewportWidth="24"
           android:viewportHeight="24">
 
+    <!-- TODO a shape of heart with black outline and red filling using lines and arcs -->
+
     <path
             android:strokeColor="#000"
             android:strokeWidth="1"
             android:strokeLineCap="round"
             android:strokeLineJoin="round"
             android:fillColor="#f00"
-            android:pathData="M3,10 12,21 21,10A4.5,4.5 0 0 0 12,5A4.5,4.5 0 0 0 3,10" />
+            android:pathData=""/>
 
 </vector>
